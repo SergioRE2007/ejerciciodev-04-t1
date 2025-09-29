@@ -17,6 +17,6 @@ public class App {
         System.out.printf(Blanco+"%-10s%-10s%-14s%-10s%-10s%n","Recreo","Recreo","Recreo","Recreo","Recreo");
         System.out.printf(Magenta+"%-10s"+Azul+"%-10s"+Blanco+"%-14s"+Rojo+"%-10s"+Amarillo+"%-10s%n","LMSGI","BADAT","DASPGS","PROGR","ENDES");
         System.out.printf(Azul+"%-10s"+Azul+"%-10s"+Rojo+"%-14s"+Rojo+"%-10s"+Amarillo+"%-10s%n","BADAT","BADAT","PROGR","PROGR","ENDES");
-        System.out.printf(Azul+"%-10s"+Blanco+"%-10s"+Rojo+"%-14s"+Magenta+"%-10s"+Amarillo+"%-10s%n","BADAT","SASP","PROGR","LMSGI","ENDES");
+        System.out.printf(Azul+"%-10s"+Blanco+"%-10s"+Rojo+"%-14s"+Magenta+"%-10s"+Amarillo+"%-10s%n"+Blanco,"BADAT","SASP","PROGR","LMSGI","ENDES");
     }
 }
